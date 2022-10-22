@@ -1,0 +1,14 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+.ipynb_checkpoints/
+*.txt
+*.csv
+*.json
+*.zip
+*.pkl
+*.bin
+*finetun*/
+*model/
+*train*/
+*eng*/
