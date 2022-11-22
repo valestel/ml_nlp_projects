@@ -9,8 +9,6 @@
 *.pkl
 *.bin
 *.npz
-*.png
-*.jpg
 *finetun*/
 *model/
 *train*/
