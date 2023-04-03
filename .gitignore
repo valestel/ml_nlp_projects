@@ -9,7 +9,9 @@
 *.pkl
 *.bin
 *.npz
+*.env
 *finetun*/
 *model/
 *train*/
 *eng*/
+*py3.10/*
