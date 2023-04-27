@@ -10,6 +10,7 @@
 *.bin
 *.npz
 *.env
+*.mp3
 *finetun*/
 *model/
 *train*/
